@@ -1,15 +1,15 @@
 Hi 👋 My name is Lawrence chris
 ===============================
 
-Web developer and android developer
+PHP|LARAVEL developer and android developer
 -----------------------------------
 
 I began as a hardware engineer but later discovered a passion for computer software. I immediately began learning how to code and the first few weeks I learned HTML & CSS, then I was introduced to javascript, and when I became interested in backend development, I began learning languages such as JAVA & PHP.
 
 * 🌍  I'm based in Abuja
 * ✉️  You can contact me at [lawrencechrisojor@gmail.com](mailto:lawrencechrisojor@gmail.com)
-* 🚀  I'm currently working on [Lapzride](http://lapzride.com)
-* 🧠  I'm learning Laravel
+* 🚀  I'm currently working on [Veritas Ecampus](https://admissions.veritas.edu.ng)
+* 🧠  I'm learning Laravel Vue.js
 * 🤝  I'm open to collaborating on ResusPay
 * ⚡  i'm the best out there but don't tell anyone.
 
